@@ -1,0 +1,14 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "UY258FYAL5.com.GetWieser.CursorTry",
+        "paths": ["*"]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": ["UY258FYAL5.com.GetWieser.CursorTry"]
+  }
+}
